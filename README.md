@@ -5,8 +5,9 @@ This is a Python script that demonstrates automaton determinization. It includes
 ## Installation
 
 To run this script, you need to install the `graphviz` package. You can install it using pip:
+```python
 pip install graphviz
-
+```
 ## Usage
 
 ```python
