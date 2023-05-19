@@ -80,6 +80,6 @@ if __name__ == '__main__':
 ```
 Make sure to replace the variables alphabet, states, initial_state, final_states, transitions, and input_string with your own values.
 ## Documentation
-For detailed documentation and explanations of the code, please refer to the accompanying PowerPoint presentation here.
+For detailed documentation and explanations of the code, please refer to the accompanying PDF file [here](./PM.pdf).
 
 Feel free to modify and enhance this script to meet your specific requirements and additional features.
